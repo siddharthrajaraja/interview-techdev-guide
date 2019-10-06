@@ -44,13 +44,4 @@ if __name__=="__main__":
         print("YES")
     else:
         print("NO")
-        
-"""
-TEST CASES USED ==================>
-D:\COMPUTATIONAL_GEOMETRY>python intersection_line_segments.py
-ENTER (X1,Y1) of LINE SEGMENT 1: 0 0
-ENTER (X2,Y2) of LINE SEGMENT 1: 2 0
-ENTER (X3,Y3) of LINE SEGMENT 2: 0 2
-ENTER (X4,Y4) of LINE SEGMENT 2: 2 2
-NO
-"""
+   
